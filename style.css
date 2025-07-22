@@ -111,5 +111,15 @@ img.thumb-1{
     border-bottom:  10px red solid;
 }
 
+div.container{
+    position: relative;
+}
 
-
+div.child{
+    width: 400px;
+    height: 400px;
+    background-color: lightgrey;
+    position: absolute;
+    left: 20px;
+    bottom: 300px;
+}
