@@ -76,3 +76,40 @@ nav.nav-links a.gallery-links:hover{
 nav.nav-links a.contact-links:hover{
     color: red;
 }
+
+
+div.characters{
+    background-color: lightgrey;
+    border-radius: 25px;
+    text-align: center;
+    margin: 50px 70px;
+    padding-top: 10px;
+
+}
+
+div.characters h4{
+    text-align: center;
+    color: red;
+    font-size: 30px;
+}
+
+div.gallery{
+    text-align: center;
+    color: red;
+    padding-top: 20px;
+}
+div.image-collection{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    color: red;
+    border-color: red;
+}
+
+img.thumb-1{
+    margin: 10px;
+    border-bottom:  10px red solid;
+}
+
+
+
