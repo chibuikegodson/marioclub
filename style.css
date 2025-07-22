@@ -3,4 +3,76 @@
     margin: 0;
     padding: 0;
     font-family: cursive;
+    }
+
+div.main-title{
+    background-color: red;
+    text-align: center;
+    padding: 25px;
+}
+
+div.main-title h1{
+    color: white;
+    padding: 20px;
+    border: white 5px solid;
+    display: inline-block;
+    border-radius: 25px;
+}
+
+nav.nav-links{
+    background-color: grey;
+    text-align: center;
+    padding: 10px;
+    color
+}
+
+nav.nav-links a{
+    margin: 125px;
+    color: white;
+}
+
+div.image-container img{
+    width: 100%;
+    border-bottom: 10px red solid;
+}
+
+div.title h1{
+    color: red;
+    text-align: center;
+    padding: 5px;
+    font-size: 40px;
+}
+
+div.title p{
+    text-align: justify;
+    padding-bottom: 25px;
+    margin: 20px 100px 20px 100px;
+    line-height: 50px;
+    font-size: larger;
+    font-size: 30px;
+}
+
+footer{
+    text-align: center;
+    padding-top:  15px;
+    background-color: grey;
+    color: white;
+    font-weight:900;
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+nav.nav-links a.class-links:hover{
+    color: red;
+}
+
+nav.nav-links a.freind-links:hover{
+    color: red;
+}
+
+nav.nav-links a.gallery-links:hover{
+    color: red;
+}
+
+nav.nav-links a.contact-links:hover{
+    color: red;
 }
