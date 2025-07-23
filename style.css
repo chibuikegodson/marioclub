@@ -54,7 +54,7 @@ div.title p{
 
 footer{
     text-align: center;
-    padding-top:  15px;
+    padding-top: 15px;
     background-color: grey;
     color: white;
     font-weight:900;
@@ -116,10 +116,36 @@ div.container{
 }
 
 div.child{
-    width: 400px;
-    height: 400px;
+    width: 450px;
+    height: 430px;
     background-color: lightgrey;
     position: absolute;
-    left: 20px;
-    bottom: 300px;
+    left: 100px;
+    bottom: 100px;
+    border-radius: 30px;
 }
+
+form{
+    margin-left: 10px;
+    position: absolute;
+    top: 60px;
+    left: 10px;;
+}
+input{
+    font-size: 27px;
+}
+
+input.inner{
+    color: white;
+    background-color: red;
+    padding: 10px 10px;
+}
+
+textarea{
+    font-size: 30px;
+}
+
+
+
+
+
