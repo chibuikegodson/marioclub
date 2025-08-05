@@ -111,13 +111,17 @@ div.image-collection{
     text-align: center;
     padding-top: 30px;
     padding-bottom: 40px;
-    color: red;
+    color: gray;
     border-color: red;
 }
 
 img.thumb-1{
     margin: 10px;
     border-bottom:  10px red solid;
+}
+
+.thumb-1:hover{
+    box-shadow: 5px 5px 5px 5px;
 }
 
 div.container{
