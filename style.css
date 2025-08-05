@@ -75,6 +75,14 @@ div.image-container img{
     color: white;
 }
 
+.thumb{
+    text-align: center;
+}
+
+.thumb img:hover{
+    box-shadow: 8px 4px 4px grey ;
+
+}
 
 div.title h1{
     color: red;
