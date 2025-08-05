@@ -109,6 +109,11 @@ footer{
     padding-bottom: 15px;
     font-size: 20px;
 }
+
+footer a:hover{
+    color: red;
+
+}
 nav.nav-links a.class-links:hover{
     color: red;
 }
